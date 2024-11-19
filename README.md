@@ -1,5 +1,6 @@
+# EX 4
 # IMAGE-TRANSFORMATIONS
-
+# DATE
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
@@ -34,7 +35,8 @@ Display the transformed images using Matplotlib for visualization. Convert the B
 Save or display the final transformed images for analysis and use plt.show() to display them inline in Jupyter or compatible environments.
 
 ## Program:
-
+## NAME BOOBESH PM
+## REG.NO 212222233001
 ```python
 
 import cv2
